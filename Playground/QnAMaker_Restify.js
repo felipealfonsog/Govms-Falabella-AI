@@ -22,8 +22,7 @@ https://chatbotslife.com/faq-chatbot-microsoft-bot-framework-node-js-qna-maker-e
 
 var restify = require('restify'); 
 var builder = require('botbuilder'); 
-// dotenv
-// servvice dot builder
+
 
 
 // levantar restify 

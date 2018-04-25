@@ -1,0 +1,36 @@
+Veracode 
+------------------
+4 rangos de rigusidad - se puede integrar al ciclo 
+
+governancer odel 
+operation controls
+contionus
+
+aplication securtiy testing 
+
+desarrollo prueba produccion  -> automated static <->manu penetrationg testing <->automated testing 
+
+tecnicas de analisis de seguridad de aplicaciones. 
+
+static binary 
+dymanic 
+manual
+
+mitigaciones en el proceso de uploading de codigo - 
+
+validacion de falsos positivos se integra a traes de la la herramienta ..
+artefactos en % de creacion vs tiempo de uploading: 2 dias c/50 mitigaciones
+1 mega / antes de la tarde deberia estar chequeado 
+Jenkins se integra con otras herramientas ygatilla a todos los labs 
+
+se puede subir la cantidad de codigo que uno desee. 
+entrega resumenes de seguridad: baja media y alta.
+
+-
+
+Posinles preguntas?
+
+
+
+------------------------------------------
+

@@ -1,0 +1,17 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "azure",
+  "main": "HolaBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fgonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.1",
+    "dotenv": "^5.0.1",
+    "qnamaker": "^1.0.14",
+    "restify": "^7.1.1"
+  }
+}

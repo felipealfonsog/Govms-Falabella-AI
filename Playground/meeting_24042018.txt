@@ -1,0 +1,23 @@
+grupos de reursos 
+
+cada pais tiene dos grupos de rec
+1 a addess -  se restringen los access, etc.
+1 a produc
+
+
+c/celula 4 grupos de req
+as-ia-colomcia-tst
+
+
+se debe determinar quien hace un deploy .
+
+francisco - front end
+
+
+git lab ...
+
+determinar q/A analisis de diseño y construccion / pruebas.  determinar q7a 
+
+posible uso de herramineta de testing continuo.
+
+seguridad ve todo en el ultimo spring.

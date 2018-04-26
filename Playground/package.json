@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "botbuilder": "^3.14.1",
+    "botbuilder-azure": "^3.0.4",
     "dotenv": "^5.0.1",
     "qnamaker": "^1.0.14",
     "restify": "^7.1.1"
